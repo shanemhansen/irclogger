@@ -1,0 +1,4 @@
+irclogger
+=========
+
+Golang logger
